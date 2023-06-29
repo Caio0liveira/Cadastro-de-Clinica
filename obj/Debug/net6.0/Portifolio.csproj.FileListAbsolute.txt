@@ -1,0 +1,15 @@
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\bin\Debug\net6.0\Portifolio.exe
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\bin\Debug\net6.0\Portifolio.deps.json
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\bin\Debug\net6.0\Portifolio.runtimeconfig.json
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\bin\Debug\net6.0\Portifolio.dll
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\bin\Debug\net6.0\Portifolio.pdb
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.csproj.AssemblyReference.cache
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.AssemblyInfoInputs.cache
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.AssemblyInfo.cs
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.csproj.CoreCompileInputs.cache
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.dll
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\refint\Portifolio.dll
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.pdb
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\Portifolio.genruntimeconfig.cache
+C:\Users\edolu\OneDrive\Área de Trabalho\Portifoliosol\Portifolio\obj\Debug\net6.0\ref\Portifolio.dll
